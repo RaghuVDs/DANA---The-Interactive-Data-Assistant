@@ -56,7 +56,7 @@ Dana is an interactive data assistant designed to help you analyze your data thr
 
 ## Usage
 
-### Connect to a Database (Optional):
+### Connect to a Database:
 
 - **DuckDB (In-memory):** Choose DuckDB for a quick start and in-memory database. No further configuration is needed after selecting DuckDB in the application.
 - **PostgreSQL:** Select PostgreSQL and provide the required connection details (Host, Port, Database Name, User, Password) to connect to your existing PostgreSQL database.
